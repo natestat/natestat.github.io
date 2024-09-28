@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://natestat.github.io/sitemap.natestat.gz
+Sitemap: https://natestat.github.io/app/sitemap.natestat.gz
+Sitemap: https://natestat.github.io/assets/sitemap.natestat.gz
+Sitemap: https://natestat.github.io/css/sitemap.natestat.gz
+Sitemap: https://natestat.github.io/data/sitemap.natestat.gz
+Sitemap: https://natestat.github.io/includes/sitemap.natestat.gz
+Sitemap: https://natestat.github.io/item/sitemap.natestat.gz
+Sitemap: https://natestat.github.io/src/sitemap.natestat.gz
